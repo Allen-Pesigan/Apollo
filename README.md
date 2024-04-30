@@ -16,6 +16,3 @@
 - **Heat Index Table**<p>
   ![heatindexchart](https://github.com/Allen-Pesigan/Apollo/assets/168507604/a9a33018-4ff3-45b4-8dd7-ba314fc52461)
 
-  
-- (palagay dito kung pano nakuha yung heat index, alross) isama mo na rin yung values or table ng heat index, pwede naman ata maglagay ng photo here search mo na lang how thru chatgpt
-
