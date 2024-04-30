@@ -10,5 +10,12 @@
   <p>Basically, this class is used for getting and accessing the JSON informations about the weather and geolocation API. The informations are then returned to the class appGUI. Those informations are the Weather Condition, Temperature, Humidity, Heat Index, and the Recommendation for user.</p>
 
 # Highlights
+- **Heat Index**
+  <p>The heat index is calculated using a combination of temperature and humidity values. The code first checks if the input temperature and humidity values fall within the predefined ranges. If not, it adjusts them to the nearest valid value. Then, it finds the indices of the nearest valid temperature and humidity values in the predefined arrays. Using these indices, it retrieves the corresponding heat index values from the heatIndexTable. Next, the code performs linear interpolation to calculate the heat index for the exact input temperature and humidity. Linear interpolation is used to estimate values that lie between two known values. Finally, the calculated heat index is classified into different categories based on its value.<p>
+
+- **Heat Index Table**
+  <p>[https://url.to/your/image.png](https://www.weather.gov/images/safety/heatindexchart-650.jpg)
+
+  
 - (palagay dito kung pano nakuha yung heat index, alross) isama mo na rin yung values or table ng heat index, pwede naman ata maglagay ng photo here search mo na lang how thru chatgpt
 
