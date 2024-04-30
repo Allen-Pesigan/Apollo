@@ -2,6 +2,7 @@
 # Introduction
 <p>Lumina Aperio is a Heat Index Weather application based on Java. Explain niyo here yung app like ano mga features niya like to remind the user na ganto ganyan </p>
 
+![Application](
 
 # Class Summaries
 - **Class appGUI**
