@@ -2,7 +2,17 @@
 # Introduction
 <p>Lumina Aperio is a Heat Index Weather application based on Java. Explain niyo here yung app like ano mga features niya like to remind the user na ganto ganyan </p>
 
-![Application](
+# Application GUI
+- ![search](https://github.com/Allen-Pesigan/Apollo/assets/167183934/940f01bb-cefc-4334-acee-32a1489ba42d)
+> Search for a location.
+
+- ![result](https://github.com/Allen-Pesigan/Apollo/assets/167183934/c72864ed-75b2-4036-be4a-cef492528535)
+ > Result shown after search.
+
+- ![alert](https://github.com/Allen-Pesigan/Apollo/assets/167183934/fa716457-889a-4e9b-bb70-ae2646e88093)
+  > Notifying the user every two (2) hours.
+
+
 
 # Class Summaries
 - **Class appGUI**
