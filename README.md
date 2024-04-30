@@ -1,6 +1,6 @@
-# Apollo's Weather App
+# Apollo's Lumina Aperio
 # Introduction
-<p>The (title) is a Heat Index Weather application based on Java. Explain niyo here yung app like ano mga features niya like to remind the user na ganto ganyan </p>
+<p>Lumina Aperio is a Heat Index Weather application based on Java. Explain niyo here yung app like ano mga features niya like to remind the user na ganto ganyan </p>
 
 
 # Class Summaries
