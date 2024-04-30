@@ -10,15 +10,15 @@
  > Result shown after search.
 
 - ![alert](https://github.com/Allen-Pesigan/Apollo/assets/167183934/fa716457-889a-4e9b-bb70-ae2646e88093)
-  > Notifying the user every two (2) hours.
+  > Notifying the user.
 
 
 
 # Class Summaries
 - **Class appGUI**
-  <p>This is where the app's GUI is coded. It is also the class where the code for functionalities of text fields and buttons are coded.</p>
+  <p>This is the class where the app's GUI is coded, as well as the class responsible for implementing the functionalities of labels, text fields, and buttons. Within this class, the results returned by the *weatherForecast* class are also handled and displayed after the user enters a location.</p>
 - **Class weatherForecast**
-  <p>Basically, this class is used for getting and accessing the JSON informations about the weather and geolocation API. The informations are then returned to the class appGUI. Those informations are the Weather Condition, Temperature, Humidity, Heat Index, and the Recommendation for user.</p>
+  <p>This class serves to retrieve and access JSON information from the weather and geolocation APIs. The retrieved data, including weather condition, temperature, humidity, heat index, and user recommendations, is then passed back to the *appGUI* class. Additionally, this class manages the parameters required for obtaining and calculating the heat index, aligning with the app's objectives</p>
 
 # Highlights
 - **Heat Index**
@@ -26,4 +26,7 @@
 
 - **Heat Index Table**<p>
   ![heatindexchart](https://github.com/Allen-Pesigan/Apollo/assets/168507604/a9a33018-4ff3-45b4-8dd7-ba314fc52461)
+
+- **Notifying the user**
+  <p>Lumina Aperio includes a feature that reminds users to apply or reapply sunscreen and stay hydrated. This proactive measure aims to safeguard users from potential risks associated with prolonged exposure to extreme heat and sunlight.</p>
 
