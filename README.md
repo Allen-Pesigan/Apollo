@@ -10,5 +10,5 @@
   <p>Basically, this class is used for getting and accessing the JSON informations about the weather and geolocation API. The informations are then returned to the class appGUI. Those informations are the Weather Condition, Temperature, Humidity, Heat Index, and the Recommendation for user.</p>
 
 # Highlights
-(palagay dito kung pano nakuha yung heat index, alross) isama mo na rin yung values or table ng heat index, pwede naman ata maglagay ng photo here search mo na lang how thru chatgpt
+- (palagay dito kung pano nakuha yung heat index, alross) isama mo na rin yung values or table ng heat index, pwede naman ata maglagay ng photo here search mo na lang how thru chatgpt
 
