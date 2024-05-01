@@ -18,7 +18,6 @@
   > Notifying the user.
 
 
-
 # Class Summaries
 - **Class appGUI**
   <p>This is the class where the app's GUI is coded, as well as the class responsible for implementing the functionalities of labels, text fields, and buttons. Within this class, the results returned by the weatherForecast class are also handled and displayed after the user enters a location.</p>
@@ -34,4 +33,13 @@
 
 - **Notifying the user**
   <p>Lumina Aperio includes a feature that reminds users to apply or reapply sunscreen and stay hydrated. This proactive measure aims to safeguard users from potential risks associated with prolonged exposure to extreme heat and sunlight.</p>
+
+- JSON
+  <p>JavaScript Object Notation (JSON) is a lightweight data format that can be easily read by humans. It typically consists of objects and arrays, which can be accessed through web applications with servers. This project fully utilizes JSON obtained from the Geolocation and Weather Forecast APIs to display necessary information in our application. A JSON object consists of key-value pairs, such as 'group: “Apollo”', which we use to retrieve information from the Weather Forecast API. On the other hand, a JSON array is an ordered set of values, like '[Allen, Alross, Jenny, Francine, Eunice]', and we use arrays to obtain the overall set of location information from the Geolocation API.</p>
+
+# Links
+- Weather Forecast API
+  https://open-meteo.com/en/docs#latitude=33.767&longitude=-118.1892
+- Geolocation API
+  https://open-meteo.com/en/docs/geocoding-api
 
