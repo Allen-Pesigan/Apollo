@@ -26,7 +26,7 @@
 
 # Highlights
 - **Heat Index**
-  <p>The heat index is calculated using a combination of temperature and humidity values. The code first checks if the input temperature and humidity values fall within the predefined ranges. If not, it adjusts them to the nearest valid value. Then, it finds the indices of the nearest valid temperature and humidity values in the predefined arrays. Using these indices, it retrieves the corresponding heat index values from the Heat Index Table. Next, the code performs linear interpolation to calculate the heat index for the exact input temperature and humidity. Linear interpolation is used to estimate values that lie between two known values. Finally, the calculated heat index is classified into different categories based on its value.<p>
+  <p>T<p>
 
 - **Heat Index Table**<p>
   ![heatindexchart](https://github.com/Allen-Pesigan/Apollo/assets/168507604/a9a33018-4ff3-45b4-8dd7-ba314fc52461)
