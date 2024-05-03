@@ -8,7 +8,7 @@
 </p>
 
 # Sustainable Development Goals
-<p>  Lumina Aperio has several features and functionalities that can contribute to the sustainable development goals. This makes a significant strides toward advancing Good health and Well-being by serving as a proactive tool for safeguarding individuals' health and well being in the face of rising temperatures and extreme heat events. By offering real time insights into the heat index and associated health risks, the application empowers users to make informed decisions to protect themselves and their loved ones. 
+<p>  Lumina Aperio has several features and functionalities that can contribute to the sustainable development goals. This makes a significant strides toward advancing good health and well-being by serving as a proactive tool for safeguarding individuals' health and well-being in the face of rising temperatures and extreme heat events. By offering real time insights into the heat index and associated health risks, the application empowers users to make informed decisions to protect themselves and their loved ones. 
 
 Through its user friendly interface and tailored recommendations, Lumina Aperio not only raises awareness about the potential dangers of high temperatures but also provides practical guidance on mitigating these risks, such as staying hydrated and applying sunscreen. By prioritizing user safety and health, the application contributes directly to the promotion of good health and well-being, ensuring that individuals can thrive even in challenging environmental conditions. </p>
 
