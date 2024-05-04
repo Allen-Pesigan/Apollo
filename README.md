@@ -7,7 +7,7 @@
  In Essence, Lumina Aperio, meaning "Light Opener" in Latin, lives up to its name by illuminating the potential dangers of heat and empowering informed decisions. This Heat Index Weather application represents a paradigm shift in weather forecasting. Combining advanced technology with user-centric design, Lumina Aperio delivers a powerful tool that not only informs you about the weather but also protects your well-being.
 </p>
 
-# Sustainable Development Goals
+# Sustainable Development Goal (Good Health and Well-Being)
 <p>  Lumina Aperio has several features and functionalities that can contribute to the sustainable development goals. This makes a significant strides toward advancing good health and well-being by serving as a proactive tool for safeguarding individuals' health and well-being in the face of rising temperatures and extreme heat events. By offering real time insights into the heat index and associated health risks, the application empowers users to make informed decisions to protect themselves and their loved ones. 
 
 Through its user friendly interface and tailored recommendations, Lumina Aperio not only raises awareness about the potential dangers of high temperatures but also provides practical guidance on mitigating these risks, such as staying hydrated and applying sunscreen. By prioritizing user safety and health, the application contributes directly to the promotion of good health and well-being, ensuring that individuals can thrive even in challenging environmental conditions. </p>
