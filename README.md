@@ -38,9 +38,9 @@ Here are the features of Lumina Aperio:
   <p>This is the class where the app's GUI is coded, as well as the class responsible for implementing the functionalities of labels, text fields, and buttons. Within this class, the results returned by the WeatherDataFetcher class are also handled and displayed after the user enters a location.</p>
 - **Class WeatherDataFetcher**
   <p>This class serves to retrieve and access JSON information from the weather and geolocation APIs. The retrieved data, including weather condition, temperature, humidity, heat index, and user recommendations, is then passed back to the appGUI class. Additionally, this class manages the obtaining and calculating the heat index using the variables of temperature and humidity, aligning with the app's objective to warn the users about the current heat index.</p>
-- **class HeatIndexCalculator**
+- **Class HeatIndexCalculator**
   <p>It contains the parameters for solving the heat index with the help of variables getTemp (Temperature data) and getHumidity (Humidity data). This is where the heat index is calculated then returns it on the ‘private void updateWeatherInfo ‘ from class appGUI.</p>
-- **class HeatIndexClassifier**
+- **Class HeatIndexClassifier**
   <p>This class is responsible for categorizing the heat index into four categories: Caution, Extreme Caution, Danger, and Extreme Danger alert. It warns the user about the potential effects of each category of heat index and reminds them to apply and/or reapply sunscreen and stay hydrated.</p>
 
 # Highlights
