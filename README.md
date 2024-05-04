@@ -23,13 +23,13 @@ Here are the features of Lumina Aperio:
 - **User-Friendly Interface:** Ensure user safety by providing and incorporating features that actively alert users for possible threats and allow the to take precautions.
 -------
 # Application GUI
-- ![search](https://github.com/Allen-Pesigan/Apollo/assets/167183934/940f01bb-cefc-4334-acee-32a1489ba42d)
+- ![search](https://github.com/Allen-Pesigan/Apollo/assets/167183934/729b8025-fd81-4084-a666-ad78ab5fe936)
 > Search for a location.
 
-- ![result](https://github.com/Allen-Pesigan/Apollo/assets/167183934/c72864ed-75b2-4036-be4a-cef492528535)
+- ![result](https://github.com/Allen-Pesigan/Apollo/assets/167183934/a051fc8c-9ac4-4569-9825-4700ae283192)
  > Result shown after search.
 
-- ![alert](https://github.com/Allen-Pesigan/Apollo/assets/167183934/fa716457-889a-4e9b-bb70-ae2646e88093)
+- ![alert](https://github.com/Allen-Pesigan/Apollo/assets/167183934/ea6f5493-d28b-4fa6-a712-05ee45176ccf)
   > Notifying the user.
 
 
