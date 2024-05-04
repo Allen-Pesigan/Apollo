@@ -15,7 +15,9 @@ Through its user friendly interface and tailored recommendations, Lumina Aperio 
 Here are the features of Lumina Aperio:
 
 **Sun Protection and Hydration Advisories:** Recommend sun protection methods like use of sunscreen, staying hydrated, and looking for shade in hours with high intensity of sun rays.
+
 **Real-Time Heat Index Calculation:** Provide the real-time calculation of the heat index by having algorithms with the capacity to utilize the temperature and humidity data.
+
 **Location-Based Weather Data:** Utilize a geolocation API or user input to get location-specific weather data that is accurate for the user's present position.
 
 # Application GUI
