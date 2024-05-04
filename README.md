@@ -14,13 +14,14 @@ Through its user friendly interface and tailored recommendations, Lumina Aperio 
 
 Here are the features of Lumina Aperio:
 
-**Sun Protection and Hydration Advisories:** Recommend sun protection methods like use of sunscreen, staying hydrated, and looking for shade in hours with high intensity of sun rays.
+- **Sun Protection and Hydration Advisories:** Recommend sun protection methods like use of sunscreen, staying hydrated, and looking for shade in hours with high intensity of sun rays.
 
-**Real-Time Heat Index Calculation:** Provide the real-time calculation of the heat index by having algorithms with the capacity to utilize the temperature and humidity data.
+- **Real-Time Heat Index Calculation:** Provide the real-time calculation of the heat index by having algorithms with the capacity to utilize the temperature and humidity data.
 
-**Location-Based Weather Data:** Utilize a geolocation API or user input to get location-specific weather data that is accurate for the user's present position.
+- **Location-Based Weather Data:** Utilize a geolocation API or user input to get location-specific weather data that is accurate for the user's present position.
 
-**User-Friendly Interface:** Ensure user safety by providing and incorporating features that actively alert users for possible threats and allow the to take precautions.
+- **User-Friendly Interface:** Ensure user safety by providing and incorporating features that actively alert users for possible threats and allow the to take precautions.
+-------
 # Application GUI
 - ![search](https://github.com/Allen-Pesigan/Apollo/assets/167183934/940f01bb-cefc-4334-acee-32a1489ba42d)
 > Search for a location.
@@ -34,9 +35,13 @@ Here are the features of Lumina Aperio:
 
 # Class Summaries
 - **Class appGUI**
-  <p>This is the class where the app's GUI is coded, as well as the class responsible for implementing the functionalities of labels, text fields, and buttons. Within this class, the results returned by the weatherForecast class are also handled and displayed after the user enters a location.</p>
-- **Class weatherForecast**
+  <p>This is the class where the app's GUI is coded, as well as the class responsible for implementing the functionalities of labels, text fields, and buttons. Within this class, the results returned by the WeatherDataFetcher class are also handled and displayed after the user enters a location.</p>
+- **Class WeatherDataFetcher**
   <p>This class serves to retrieve and access JSON information from the weather and geolocation APIs. The retrieved data, including weather condition, temperature, humidity, heat index, and user recommendations, is then passed back to the appGUI class. Additionally, this class manages the obtaining and calculating the heat index using the variables of temperature and humidity, aligning with the app's objective to warn the users about the current heat index.</p>
+- **class HeatIndexCalculator**
+  <p>It contains the parameters for solving the heat index with the help of variables getTemp (Temperature data) and getHumidity (Humidity data). This is where the heat index is calculated then returns it on the ‘private void updateWeatherInfo ‘ from class appGUI.</p>
+- **class HeatIndexClassifier**
+  <p>This class is responsible for categorizing the heat index into four categories: Caution, Extreme Caution, Danger, and Extreme Danger alert. It warns the user about the potential effects of each category of heat index and reminds them to apply and/or reapply sunscreen and stay hydrated.</p>
 
 # Highlights
 - **Heat Index**
