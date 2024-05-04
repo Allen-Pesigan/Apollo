@@ -31,7 +31,7 @@ Through its user friendly interface and tailored recommendations, Lumina Aperio 
 
 # Highlights
 - **Heat Index**
-  <p>The heat index is calculated using the Rothfusz regression equation, which takes into account temperature (in Fahrenheit) and relative humidity. The equation uses coefficients to calculate the heat index, which is a measure of how hot it really feels when relative humidity is factored in with the actual air temperature. The getHeatIndex method in the weatherForecast class takes temperature and humidity as input parameters and returns the calculated heat index. This heat index is then used to classify the level of heat risk, providing recommendations accordingly.<p>
+  <p>The heat index is calculated using the Rothfusz regression equation, which takes into account temperature (in Fahrenheit) and relative humidity. The equation uses coefficients to calculate the heat index, which is a measure of how hot it really feels when relative humidity is factored in with the actual air temperature. The calculateHeatIndex method in the HeatIndexCalculator class takes temperature and humidity as input parameters and returns the calculated heat index.<p>
 
 - **Heat Index Table**<p>
   ![heatindexchart](https://github.com/Allen-Pesigan/Apollo/assets/168507604/a9a33018-4ff3-45b4-8dd7-ba314fc52461)
