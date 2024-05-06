@@ -21,9 +21,9 @@ Here are the features of Lumina Aperio:
 - **User-Friendly Interface:** Ensure user safety by providing and incorporating features that actively alert users for possible threats and allow the to take precautions.
 
 # Requirements
--- LuminaAperio utilizes the following technologies and libraries
+<p>LuminaAperio utilizes the following technologies and libraries.<p>
 
--Java Development Kit (JDK)
+- Java Development Kit (JDK)
 
 External libraries used:
 - json-simple - JSON parsing library
