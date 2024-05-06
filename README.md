@@ -67,16 +67,16 @@ Photos for weather conditions:
 - **Heat Index**
   <p>The heat index is calculated using the Rothfusz regression equation, which takes into account temperature (in Fahrenheit) and relative humidity. The equation uses coefficients to calculate the heat index, which is a measure of how hot it really feels when relative humidity is factored in with the actual air temperature. The calculateHeatIndex method in the HeatIndexCalculator class takes temperature and humidity as input parameters and returns the calculated heat index.<p>
 
-The heat index is calculated using the following formula:
+<p>The heat index is calculated using the following formula:<p>
 
-HI = c1 + c2T + c3RH + c4TRH + c5T^2 + c6RH^2 + c7T^2RH + c8TRH^2 + c9T^2RH^2
+<p>HI = c1 + c2T + c3RH + c4TRH + c5T^2 + c6RH^2 + c7T^2RH + c8TRH^2 + c9T^2RH^2<p>
 
 Where:
 
-HI is the heat index in degrees Fahrenheit (°F).
-T is the air temperature in degrees Fahrenheit (°F).
-RH is the relative humidity expressed as a decimal.
-Coefficients c1, c2, ..., c9 are constants used in the calculation.
+- <p>HI is the heat index in degrees Fahrenheit (°F)<p>
+- <p>T is the air temperature in degrees Fahrenheit (°F)<p>
+- <p>RH is the relative humidity expressed as a decimal<p>
+- <p>Coefficients c1, c2, ..., c9 are constants used in the calculation<p>
 
 - **Heat Index Table**<p>
   ![heatindexchart](https://github.com/Allen-Pesigan/Apollo/assets/168507604/a9a33018-4ff3-45b4-8dd7-ba314fc52461)
