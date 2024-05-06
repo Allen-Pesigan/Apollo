@@ -32,7 +32,7 @@ Here are the features of Lumina Aperio:
 
 
 # Class Summaries
-_ **Class LuminaAperio**
+- **Class LuminaAperio**
   <p>This class contains the main method and serves as the entry point of the application. It initializes the Graphical User Interface (GUI) by creating an instance of the AppGUI class, allowing users to interact with the weather information application.</p>
 - **Class appGUI**
   <p>This class is responsible for creating the graphical user interface (GUI) of the application. It creates a window where users can input a location to get weather information. The GUI includes text fields, buttons, and labels to display weather data such as weather condition, temperature, humidity, heat index, and recommendations.</p>
