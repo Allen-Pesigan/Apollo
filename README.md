@@ -19,6 +19,21 @@ Here are the features of Lumina Aperio:
 - **Location-Based Weather Data:** Utilize a geolocation API or user input to get location-specific weather data that is accurate for the user's present position.
 
 - **User-Friendly Interface:** Ensure user safety by providing and incorporating features that actively alert users for possible threats and allow the to take precautions.
+
+# Requirements
+-- LuminaAperio utilizes the following technologies and libraries
+
+-Java Development Kit (JDK)
+
+External libraries used:
+- json-simple - JSON parsing library
+
+Photos for weather conditions:
+- Clear weather: clear.png
+- Cloudy weather: cloudy.png
+- Rainy weather: rain.png
+- Snowy weather: snow.png
+- Search icon: search.png
 -------
 # Application GUI
 - ![search](https://github.com/Allen-Pesigan/Apollo/assets/167183934/9656bcc7-e3db-44f5-a70b-980eb90f775a)
