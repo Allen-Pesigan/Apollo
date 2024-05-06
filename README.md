@@ -75,7 +75,7 @@ Where:
 
   - <p>HI is the heat index in degrees Fahrenheit (°F)
   - <p>T is the air temperature in degrees Fahrenheit (°F)
-  - <p>RH is the relative humidity expressed as a decimal
+  - <p>RH is the relative humidity
   - <p>Coefficients c1, c2, ..., c9 are constants used in the calculation
 
 - **Heat Index Table**<p>
