@@ -81,6 +81,11 @@ Where:
 - **Heat Index Table**<p>
   ![heatindexchart](https://github.com/Allen-Pesigan/Apollo/assets/168507604/a9a33018-4ff3-45b4-8dd7-ba314fc52461)
 
+Caution	80°F - 90°F	Fatigue possible with prolonged exposure and/or physical activity
+Extreme Caution	90°F - 103°F	Heat stroke, heat cramps, or heat exhaustion possible with prolonged exposure and/or physical activity
+Danger	103°F - 124°F	Heat cramps or heat exhaustion likely, and heat stroke possible with prolonged exposure and/or physical activity
+Extreme Danger	125°F or higher	Heat stroke highly likely
+
 - **Notifying the user**
   <p>Lumina Aperio includes a feature that reminds users to apply or reapply sunscreen and stay hydrated. This proactive measure aims to safeguard users from potential risks associated with prolonged exposure to extreme heat and sunlight.</p>
 
