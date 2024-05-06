@@ -69,14 +69,14 @@ Photos for weather conditions:
 
 The heat index is calculated using the following formula:
 
-HI = c1 + c2*T + c3*RH + c4*T*RH + c5*T^2 + c6*RH^2 + c7*T^2*RH + c8*T*RH^2 + c9*T^2*RH^2
+HI = c1 + c2T + c3RH + c4TRH + c5T^2 + c6RH^2 + c7T^2RH + c8TRH^2 + c9T^2RH^2
 
 Where:
 
-- HI is the heat index in degrees Fahrenheit (°F).
-- T is the air temperature in degrees Fahrenheit (°F).
-- RH is the relative humidity expressed as a decimal.
-- Coefficients c1, c2, ..., c9 are constants used in the calculation.
+HI is the heat index in degrees Fahrenheit (°F).
+T is the air temperature in degrees Fahrenheit (°F).
+RH is the relative humidity expressed as a decimal.
+Coefficients c1, c2, ..., c9 are constants used in the calculation.
 
 - **Heat Index Table**<p>
   ![heatindexchart](https://github.com/Allen-Pesigan/Apollo/assets/168507604/a9a33018-4ff3-45b4-8dd7-ba314fc52461)
