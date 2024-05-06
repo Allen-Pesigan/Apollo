@@ -32,8 +32,12 @@ Here are the features of Lumina Aperio:
 
 
 # Class Summaries
+_ **Class LuminaAperio**
+  <p>This class contains the main method and serves as the entry point of the application. It initializes the Graphical User Interface (GUI) by creating an instance of the AppGUI class, allowing users to interact with the weather information application.</p>
 - **Class appGUI**
-  <p>This is the class where the app's GUI is coded, as well as the class responsible for implementing the functionalities of labels, text fields, and buttons. Within this class, the results returned by the WeatherDataFetcher class are also handled and displayed after the user enters a location.</p>
+  <p>This class is responsible for creating the graphical user interface (GUI) of the application. It creates a window where users can input a location to get weather information. The GUI includes text fields, buttons, and labels to display weather data such as weather condition, temperature, humidity, heat index, and recommendations.</p>
+- **Class WeatherInfoDisplay**
+  <p>This class updates the weather information displayed on the GUI based on the user's input location. It retrieves weather data from the Open-Meteo API and updates the GUI with weather condition icons, temperature (in both Celsius and Fahrenheit), humidity, heat index, and recommendations. Additionally, it provides a functionality to switch between Celsius and Fahrenheit temperature units.</p>
 - **Class WeatherDataFetcher**
   <p>This class serves to retrieve and access JSON information from the weather and geolocation APIs. The retrieved data, including weather condition, temperature, humidity, heat index, and user recommendations, is then passed back to the appGUI class. Additionally, this class manages the obtaining and calculating the heat index using the variables of temperature and humidity, aligning with the app's objective to warn the users about the current heat index.</p>
 - **Class HeatIndexCalculator**
