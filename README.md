@@ -69,7 +69,7 @@ Photos for weather conditions:
 
    <p>The heat index is calculated using the following formula:<p>
 
-   <p>HI = c1 + c2T + c3RH + c4TRH + c5T^2 + c6RH^2 + c7T^2RH + c8TRH^2 + c9T^2RH^2<p>
+   <p>HI = c1 + c2T + c3RH + c4TRH + c5T² + c6RH² + c7T²RH + c8TRH² + c9T²RH²<p>
 
 Where:
 
